@@ -9,7 +9,7 @@ except ImportError:
 
 banner = """
 
- █████╗ ██╗  ██╗██████╗  Author : Ms.ambari
+ █████╗ ██╗  ██╗██████╗  Author : MR.N43KS
 ██╔══██╗╚██╗██╔╝██╔══██╗ Date   : 2018-12-01
 ███████║ ╚███╔╝ ██║  ██║ Tools  : DRAGON CYBER ARMY
 ██╔══██║ ██╔██╗ ██║  ██║ Github : /MR-N43KS
